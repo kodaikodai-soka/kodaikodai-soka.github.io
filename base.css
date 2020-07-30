@@ -1,0 +1,76 @@
+@charset "utf-8" ;
+{
+margin: 0; padding: 0;
+}
+
+.no1{
+    width: 100%
+    padding:15px 0;
+    margin: 0 auto;
+    text-align: center;
+    background-color:dimgray;
+    font-family: fantasy;
+    font-size: 100px 
+}
+
+.no2{
+    font-family:fantasy;
+    font-size: 100px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+nav{
+    text-align: center;
+}
+nav ul{
+    margin: 0 ;
+    padding: 0 ;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    width: 18%;
+    min-width: 90px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #333;
+}
+nav ul li.current a{
+    color: #F33135;
+}
+nav ul li a:hover{
+    color: #E7DA66;
+}
+
+.left{
+    text-align: left;
+    font-size: 10px
+}
+.right{
+     text-align: right;
+    font-size: 10px
+}
+.footer{
+    text-align: center;
+    font-size: 10px
+}
+
+.no3{
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+.record{
+    background-color:antiquewhite;
+}
+
+.no4{
+    font-family: fantasy;
+    font-size: 100px;
+    
+}
+.tradegy{
+    background-color: dimgrey;
+}
